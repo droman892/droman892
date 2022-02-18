@@ -6,7 +6,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="mailto:droman892@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" alt="meeting-with-david-roman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/david-roman-front-end-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-roman-full-stack-developer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-roman-%E2%98%85-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-roman-full-stack-developer" height="30" width="40" /></a>
 <a href="https://instagram.com/this.is.droman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this.is.droman" height="30" width="40" /></a>
 </p>
 
